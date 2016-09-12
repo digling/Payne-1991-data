@@ -6,8 +6,13 @@ SOURCE	TARGET	COMMENT
 ] > -
 [ > +
 ∫	> ʃ	 
-ẓ̌ 	ʐ
-N 	 n	 
-K 	 k	 
-y 	 j
-K	k	
+ẓ >  ʐ
+N >	 n	 
+K >	 k	 
+y >	 j
+K	> k	
+ph > ph superscript
+th > th superscript
+kh > kh superscript
+tʃh > tʃh superscipt
+tsh > tsh superscript
